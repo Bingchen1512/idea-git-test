@@ -17,6 +17,7 @@ public class GitTest {
 
         System.out.println("hot-fix modify");
         System.out.println("hot-fix 2222");
+        System.out.println("远端仓库内修改代码");
     }
 
 }
