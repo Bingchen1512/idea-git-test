@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("Git, hello!");
         System.out.println("idea second commit");
         System.out.println("merge hot-fix");
+        System.out.println("master modify");
     }
 
 }
