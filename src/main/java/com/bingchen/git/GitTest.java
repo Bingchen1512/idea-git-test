@@ -14,6 +14,7 @@ public class GitTest {
         System.out.println("idea second commit");
         System.out.println("merge hot-fix");
         System.out.println("hot-fix modify");
+        System.out.println("hot-fix 2222");
     }
 
 }
